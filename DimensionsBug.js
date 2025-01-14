@@ -1,0 +1,1 @@
+This error occurs when using the `Dimensions` API in React Native to get screen dimensions, and the app crashes on Android due to the `Dimensions` object being undefined or null before it's fully initialized. This usually happens during the initial render of the app or components that rely on screen dimensions early in the lifecycle.
